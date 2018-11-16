@@ -1,2 +1,4 @@
-public class Horse {
+public interface Horse {
+    String getName();
+    int getWeight();
 }
