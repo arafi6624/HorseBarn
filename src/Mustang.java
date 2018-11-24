@@ -7,11 +7,11 @@ public class Mustang implements Horse {
         this.weight = weight;
     }
 
-    public String getName (String name){
+    public String getName (){
         return name;
     }
 
-    public int getWeight (int weight){
+    public int getWeight (){
         return weight;
     }
 }
